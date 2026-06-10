@@ -1,3 +1,3 @@
 echo "I am learning Git"
-echo "Hello, How arthis tooe you?"
-echo "again chanded"
+echo "11Hello, How arthis tooe you?"
+echo "12again chanded"
